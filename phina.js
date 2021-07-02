@@ -7,6 +7,7 @@
  */
 
 
+'use strict';
 
 /*
  *
@@ -15201,3 +15202,4 @@ phina.namespace(function() {
 
 
 });
+
